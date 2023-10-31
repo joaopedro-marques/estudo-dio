@@ -1,3 +1,3 @@
 # estudo-dio
 
-Repositório para armazenar todo o conteúdo de estudos Javas Dio.
+Repositório para armazenar todo o conteúdo de estudos Java Dio.
