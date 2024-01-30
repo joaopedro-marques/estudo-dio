@@ -1,4 +1,4 @@
-package QuickSorte;
+package QuickSort;
 class QSDemo {
    public static void main(String[] args) {
     char[] a = {'a','b','c','q','u','m','j','l','k'};

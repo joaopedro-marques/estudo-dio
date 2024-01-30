@@ -1,4 +1,4 @@
-package QuickSorte;
+package QuickSort;
 
 public class Quicksort {
   static void qsort(char items[]){
