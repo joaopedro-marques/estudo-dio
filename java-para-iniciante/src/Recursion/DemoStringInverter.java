@@ -5,6 +5,6 @@ public class DemoStringInverter {
 
 
     System.out.println(StringInverter.inverter("null"));
-    
+    System.out.println(StringInverter.varargs(1, 1,2,6,5));
   }
 }
